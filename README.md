@@ -1,7 +1,7 @@
 # Redux-Todoos-project
 
-Merhabalar! React Native'de  redux yapısını pekiştirmek adına bir todo uygulaması yazdım. Uygulamda başarılı başarısız ve işlem yapılmamış görevleri gösteriyor.
-Uygulamda her şey tamamiyle dinamik bir halde ,not eklenebilir veya silinebilir,görev durumu değiştirileblir. Uygulama ana sayfasında filtreleme de yapılabilir,başarılı başarısız görevler ayrı ayrı listeleyebilirsiniz.
+Merhabalar! React Native'de  redux yapısını pekiştirmek adına bir todo uygulaması yazdım. Uygulamda başarılı başarısız ve işlem yapılmamış görevleri listeliyor.
+Uygulamda her şey tamamiyle dinamik bir halde ,not eklenebilir veya silinebilir,görev durumu değiştirileblir. Uygulama ana sayfasında filtreleme de yapılabilir,başarılı başarısız görevler ayrı ayrı listelenebilir.
 
 ## Uygulama içerisnde kullanılan React Native kütüphaneleri:
 react-navigation: https://reactnavigation.org/docs/getting-started/ <br>
